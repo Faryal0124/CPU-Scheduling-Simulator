@@ -40,11 +40,7 @@ No third-party packages are required.
 
 # Run the simulator
 python main.py
-```
 
-
-
----
 
 ## Usage
 
@@ -72,6 +68,3 @@ python main.py
 
 ---
 
-## License
-
-MIT License. Feel free to use, modify, and distribute.# CPU-Scheduling-Simulator
