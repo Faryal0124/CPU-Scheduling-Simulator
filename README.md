@@ -38,19 +38,11 @@ No third-party packages are required.
 
 ## Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/cpu-scheduling-simulator.git
-cd cpu-scheduling-simulator
-
 # Run the simulator
 python main.py
 ```
 
-> On some Linux systems, Tkinter may need to be installed separately:
-> ```bash
-> sudo apt install python3-tk
-> ```
+
 
 ---
 
